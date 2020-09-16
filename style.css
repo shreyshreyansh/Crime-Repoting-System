@@ -1,0 +1,29 @@
+.barrier{
+	padding-top: 60px;
+	color:#000000;
+	border: 1px solid #D3D3D3;
+}
+.box{
+	border: 1px solid #D3D3D3; 
+	margin: auto; 
+	background-color: #D3D3D3;
+}
+a:hover {
+  color: black;
+}
+.content{
+	background-color: #D3D3D3;
+}
+div.sticky {
+position: sticky;
+top: 37px;
+text-decoration: none;
+}
+.containers{
+	 padding: 15px 0;    
+	 background-color: #101010;     
+	 color:#9d9d9d;
+	 text-align: center;      
+	 bottom: 0;      
+	 width: 100%; 
+}
